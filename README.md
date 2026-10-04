@@ -14,7 +14,11 @@ Desarrollado con una arquitectura **Multi-Socio**, permite gestionar carteras de
 
 ## 📸 Vistas del Sistema
 
-> Screenshots con datos de demo próximamente.
+![Tablero](https://brancoblunda.github.io/assets/proyectos/lomas-del-pacifico/01-dashboard.webp)
+
+| Plan de pagos | Recibo PDF |
+|---|---|
+| ![Plan de pagos](https://brancoblunda.github.io/assets/proyectos/lomas-del-pacifico/02-plan-de-pagos.webp) | ![Recibo](https://brancoblunda.github.io/assets/proyectos/lomas-del-pacifico/03-recibo-pdf.webp) |
 
 **Pantallas principales:**
 - **Dashboard** — métricas en tiempo real, cuotas vencidas, accesos rápidos
@@ -66,7 +70,7 @@ Desarrollado con una arquitectura **Multi-Socio**, permite gestionar carteras de
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/BlundaBranco/gestion_cobranza.git
+    git clone https://github.com/BrancoBlunda/Gestion_Cobranza.git
     ```
 2.  **Instalar dependencias PHP:**
     ```bash
@@ -93,4 +97,4 @@ Desarrollado con una arquitectura **Multi-Socio**, permite gestionar carteras de
 
 ---
 
-**Desarrollado por Blunda Branco**
+**Desarrollado por Branco Blunda** · Más proyectos en https://brancoblunda.github.io
